@@ -1,0 +1,5 @@
+11,Introduction to Machine Learning,65.75,3
+12,Python Crash Course,38.99,4
+13,Deep Learning with Python,72.50,5
+14,Data Structures and Algorithms in C++,55.40,2
+15,Artificial Intelligence: A Modern Approach,88.90,1

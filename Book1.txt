@@ -1,0 +1,5 @@
+81,The C Programming Language,45.99,4
+82,Clean Code,59.99,7
+83,Algorithms,89.50,9
+84,Design Patterns,47.80,4
+85,Computer Networks,52.25,6
